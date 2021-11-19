@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        style="@style/Theme.srs12.Strong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Автор выражает огромную благодарность:"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Преподавателю (Новопашенный М.В.)"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Кураторам курсов повышения квалификации"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Аттестационной комиссии"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+
+</LinearLayout>

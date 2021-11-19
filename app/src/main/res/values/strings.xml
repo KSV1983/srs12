@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">srs12</string>
+    <string name="about_author_btn_text">об авторе..</string>
+    <string name="about_app_btn_text">О приложении..</string>
+    <string name="use_components_btn_text">Используемые компоненты..</string>
+    <string name="thanks_btn_text">Благодарности..</string>
+    <string name="about_author_item_title">Об авторе..</string>
+    <string name="about_app_item_title">О приложении..</string>
+    <string name="thanks_item_title">Благодарности..</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fio_author">автор: Корюков Сергей Вадимович</string>
+    <string name="author_status">студент курсов повышения квалификации</string>
+    <string name="author_document">дипломированный специлист по защите информации</string>
+    <string name="about_app_tv1_text">Аттестационное, демонстрационное приложение</string>
+    <string name="about_app_tv2_text">Демонстрирует полученные на курсах повышения квалификации знания</string>
+    <string name="about_app_tv3_text">Рекомендую данный авторский курс повышения квалификации</string>
+    <string name="components_activity_back_btn_text">Назад..</string>
+</resources>
